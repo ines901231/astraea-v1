@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity games\\spaceshoot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|d:\\unity games\\spaceshoot\\assets\\scripts\\audioassetsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audioassetsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|d:\\unity games\\spaceshoot\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\starttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\starttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\menutrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menutrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\credittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\credittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\stargenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stargenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\enemycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\shipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shipcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\scroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|D:\\Unity games\\spaceshoot\\assets\\scripts\\shipbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDFFF85-4387-C79D-2879-FC95FF2FEFF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shipbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "audioassetsource.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\audioassetsource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\audioassetsource.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\audioassetsource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\audioassetsource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:26:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "starttrigger.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\starttrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\starttrigger.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\starttrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\starttrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:59:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menutrigger.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\menutrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menutrigger.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\menutrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menutrigger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:15:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "credittrigger.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\credittrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\credittrigger.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\credittrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\credittrigger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:51:44.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stargenerator.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\stargenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\stargenerator.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\stargenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\stargenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:04:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "star.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\star.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\star.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\star.cs",
+              "RelativeToolTip": "Assets\\Scripts\\star.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:48:00.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "scroller.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\scroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\scroller.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\scroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\scroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:10:05.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gamescore.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\gamescore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gamescore.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\gamescore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gamescore.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:09:43.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamemanager.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gamemanager.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\gamemanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gamemanager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:11:25.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "destroyer.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\destroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\destroyer.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\destroyer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\destroyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:18:47.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "enemyspawner.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\enemyspawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemyspawner.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\enemyspawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemyspawner.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:28:41.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "enemycontrol.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\enemycontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemycontrol.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\enemycontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemycontrol.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:20:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "shipcontrol.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\shipcontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\shipcontrol.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\shipcontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\shipcontrol.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:26:49.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shipbullet.cs",
+              "DocumentMoniker": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\shipbullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\shipbullet.cs",
+              "ToolTip": "D:\\Unity games\\spaceshoot\\Assets\\Scripts\\shipbullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\shipbullet.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:29:42.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
